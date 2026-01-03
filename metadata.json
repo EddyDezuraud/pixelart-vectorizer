@@ -1,0 +1,5 @@
+{
+  "name": "Pixel-Perfect SVG Vectorizer",
+  "description": "A high-performance tool to convert pixel art PNGs into clean, crisp SVG vector files with advanced optimization techniques like horizontal and 2D greedy rectangle fusion.",
+  "requestFramePermissions": []
+}
